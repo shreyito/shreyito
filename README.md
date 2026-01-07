@@ -1,5 +1,5 @@
 # Shreya Raj Gupta  
-###  Software Developer | IAM/IGA Automation | AI-Powered Cybersecurity  
+###  Software Developer | IAM/IGA Automation | AI-Powered Cybersecurity   
 
 [![Email](https://img.shields.io/badge/Email-shreya.rg2k3@gmail.com-blue?style=flat&logo=gmail)](mailto:shreya.rg2k3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreya_Raj_Gupta-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreya-raj-gupta-174551251/)
